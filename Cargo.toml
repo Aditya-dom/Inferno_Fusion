@@ -1,11 +1,11 @@
 [package]
-name = "game-engine"
+name = "Inferno-fusion"
 description = "A project for me to explore writing a game engine from scratch."
-repository = "https://github.com/tuzz/game-engine"
+repository = "https://github.com/aditya-dom/Infero_fusion"
 version = "0.1.0"
 license = "MIT"
-authors = ["Chris Patuzzo <chris@patuzzo.co.uk>"]
-edition = "2018"
+authors = ["Aditya <domaditya10@gmail.com>"]
+edition = "2024"
 
 [lib]
 crate-type = ["cdylib"]
