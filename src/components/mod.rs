@@ -43,7 +43,7 @@ pub use shininess::Shininess;
 pub use texture::Texture;
 pub use tex_coords::TexCoords;
 pub use normals::Normals;
-pub use dimensions::Dimensions;
+//pub use dimensions::Dimensions;
 pub use local_transform::LocalTransform;
 pub use world_transform::WorldTransform;
 pub use projection_transform::ProjectionTransform;

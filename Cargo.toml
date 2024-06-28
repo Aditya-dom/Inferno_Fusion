@@ -5,7 +5,8 @@ repository = "https://github.com/aditya-dom/Infero_fusion"
 version = "0.1.0"
 license = "MIT"
 authors = ["Aditya <domaditya10@gmail.com>"]
-edition = "2024"
+edition = "2018"
+
 
 [lib]
 crate-type = ["cdylib"]
