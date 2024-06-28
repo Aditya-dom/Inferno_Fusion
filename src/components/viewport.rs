@@ -1,3 +1,11 @@
+/*Instead of a single viewport that all cameras draw
+to, introduce a Viewport component that specifies
+a region of the screen a camera should draw to.
+Each can have their own clear color, too.
+
+If a camera doesn’t have a viewport then then
+WebGlRender will just skip past it.*/
+
 use specs::prelude::*;
 
 #[derive(Component)]
