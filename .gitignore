@@ -1,6 +1,4 @@
-/target/*
 **/*.rs.bk
 Cargo.lock
 
-!/target/index.js
-!/target/index.wasm
+
